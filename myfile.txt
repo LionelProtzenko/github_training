@@ -1,1 +1,2 @@
 "Ceci est un test de git"
+"Ceci est un second test de git"
